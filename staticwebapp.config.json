@@ -1,8 +1,0 @@
-{
-  "routes": [
-    {
-      "route": "/",
-      "rewrite": "/login_page.html"
-    }
-  ]
-}
