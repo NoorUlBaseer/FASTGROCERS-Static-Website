@@ -1,6 +1,6 @@
 {
     "navigationFallback": {
-      "rewrite": "/login page.html"
+      "rewrite": "/login_page.html"
     }
   }
   
