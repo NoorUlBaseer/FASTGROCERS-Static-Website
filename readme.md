@@ -19,3 +19,5 @@ To view the website locally:
 3. Navigate through the site using the provided links to explore different sections.
 
 Feel free to explore and modify the code to further understand and experiment with static web development techniques.
+
+Link: [FASTGROCERS Static Website](https://agreeable-stone-0043fc400.5.azurestaticapps.net)
