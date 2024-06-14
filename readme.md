@@ -20,4 +20,4 @@ To view the website locally:
 
 Feel free to explore and modify the code to further understand and experiment with static web development techniques.
 
-Link: [FASTGROCERS Static Website](https://agreeable-stone-0043fc400.5.azurestaticapps.net)
+Link: [FASTGROCERS Static Website](https://jolly-grass-0be1f8d00.5.azurestaticapps.net/)
